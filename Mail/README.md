@@ -1,8 +1,8 @@
 # About
 
-This program requires smtp module to run the code.
+This program requires smtplib module to run the code. smtplib comes preinstalled wih python. If you are gettig error then follow installation step.
 
 ## Installaion
 ```
-pip install smtp
+pip install smtplib
 ```
